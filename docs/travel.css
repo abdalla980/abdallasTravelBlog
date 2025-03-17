@@ -61,21 +61,27 @@ background-color: #969595;
     border-width: 3px;
   }
 .WCWYLTV{
-    color:#ccc;
+    color: #ffffff;
     font-weight: bolder;
     font-style: italic;
 font-size: large;
--webkit-text-stroke: 0.5px black; 
+-webkit-text-stroke: 0.5px black;
+    text-align: center;
+
 }
+.formm{
+   text-align: center;
+}
+
+
 .WDIWTT{
 color: #f1f1f1;
 -webkit-text-stroke: 0.5px rgb(25, 24, 24); 
 text-align: center;
 }
 .text{
-    color:#141414;
-    -webkit-text-stroke: 0.9px rgb(15, 12, 12); 
-    text-decoration:solid;
+    color: #000000;
+    background-color: #ffffff;
     text-align: center;
 }
 
